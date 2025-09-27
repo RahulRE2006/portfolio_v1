@@ -41,6 +41,12 @@ a{
     padding: 5px 10px;
 }
 
+.head{
+    background-image: url(/assets/fondo.jpg);
+    background-position: center;
+    background-size:cover;
+}
+
 .box{
     background-color: var(--color-earth);
     margin:0 auto ;
@@ -48,6 +54,26 @@ a{
     min-height: 200px;
     height: auto;
     border: 10px solid var(--color-text);
+}
+.box-img-header{
+    background-image: url(/assets/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-img-ldsm{
+    background-image: url(/assets/ldsm.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-img-bootcamp{
+    background-image: url(/assets/bootcamp.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-img-colegio{
+    background-image: url(/assets/colegio.jpg);
+    background-size: cover;
+    background-position: center;
 }
 h1{
     font-size: 10vw;
@@ -74,6 +100,10 @@ h1{
 
 section{
     max-width: 1000px;
+}
+
+.lista{
+    font-size: large;
 }
 
 .img-proyects img{
