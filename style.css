@@ -42,7 +42,7 @@ a{
 }
 
 .head{
-    background-image: url(/assets/fondo.jpg);
+    background-image: url(assets/fondo.jpg);
     background-position: center;
     background-size:cover;
 }
@@ -56,27 +56,27 @@ a{
     border: 10px solid var(--color-text);
 }
 .box-img-header{
-    background-image: url(/assets/banner.jpg);
+    background-image: url(assets/banner.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-img-ldsm{
-    background-image: url(/assets/ldsm.jpg);
+    background-image: url(assets/ldsm.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-img-bootcamp{
-    background-image: url(/assets/bootcamp.jpg);
+    background-image: url(assets/bootcamp.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-img-colegio{
-    background-image: url(/assets/colegio.jpg);
+    background-image: url(assets/colegio.jpg);
     background-size: cover;
     background-position: center;
 }
 .fondo2{
-    background-image: url(/assets/fondo4.jpg);
+    background-image: url(assets/fondo4.jpg);
     background-size: cover;
     background-position: center;
 }
