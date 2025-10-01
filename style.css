@@ -82,7 +82,7 @@ a{
 }
 h1{
     font-size: 10vw;
-    min-width: 500px;
+    max-width: 500px;
 }
 
 .p-w{
